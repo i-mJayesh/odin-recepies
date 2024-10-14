@@ -1,0 +1,52 @@
+body{
+    background-color:white;
+    margin: 0 45px;
+}
+
+#mid-sec{
+    background: rgb(83, 83, 83);
+    /* height: 100vh; */
+    margin-top: 20px;
+    padding: 20px 35px;
+}
+
+#title{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    margin: 5px 0;
+}
+
+#sub-title{
+    font-size: 15px;
+    color: rgb(255, 230, 0);
+    text-align: center;
+    margin: 5px 0;
+}
+
+#subject{
+    color: rgb(255, 230, 0);
+    font-size: 18px;
+}
+
+li{
+    color: white;
+}
+
+a{
+    color: rgb(255, 230, 0);
+}
+
+#para{
+    color: white;
+    margin-left: 25px;
+}
+
+#img-title{
+    color: white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 5px 20px;
+    font-size: 26px;
+}
